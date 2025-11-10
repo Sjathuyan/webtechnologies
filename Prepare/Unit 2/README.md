@@ -1,1 +1,1 @@
-(https://github.com/Sjathuyan)
+https://github.com/Sjathuyan
